@@ -1,0 +1,28 @@
+Life Of Pi (LOP)
+3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679
+
+* What is Pi?
+
+Pi, one of the most well-known mathematical constants, is the ratio of a circle's circumference to its diameter. For any circle, the distance around the edge is a little more than three times the distance across.
+
+Typing Pi into a calculator and pressing ENTER will yield the result 3.141592654, not because this value is exact, but because a calculator's display is often limited to 10 digits. Pi is actually an irrational number (a decimal with no end and no repeating pattern) that is most often approximated with the decimal 3.14 or the fraction 227.
+
+* Pi: A Perennial Puzzle
+
+Pi has interested people around the world for over 4,000 years. Many mathematicians - from famous ones such as Fibonacci, Newton, Leibniz, and Gauss, to lesser well-known mathematical minds - have toiled over pi, calculated its digits, and applied it in numerous areas of mathematics. Some spent the better parts of their lives calculating just a few digits. Here is a sampling of the many milestones in the life of pi.
+
+Early decimal approximations for Pi were obtained in a number of different ways.  For example, in ancient Babylon, rope stretchers marking the locations of buildings and boundaries estimated Pi to be 25/8 =3.125. The ancient Egyptians determined the ratio to be (16/9)^2, whixh is approximately 3.16. The earliest calculations of Pi were largely based on measurement.
+
+Archimedes, a Greek mathematician, was the first to use an algorithmic approach to calculate pi. He drew a polygon inside a circle and drew a second polygon outside of the circle. Then he continuously added more and more sides of both polygons, getting closer and closer to the shape of the circle. Having reached 96-sided polygons, he proved that 223/71 < Pi < 22/7.
+
+From Archimedes' time (about 250 B.C.E.) to the early 1600s mathematicians in countries around the world used methods similar to Archimedes' to estimate pi, with increasingly efficient and accurate results. In 1630, Austrian astronomer Christoph Grienberger calculated 38 digits of Pi using polygons with 1040 sides, which remains the best calculation of Pi using this polygonal method.
+
+The Renaissance saw many developments and work on pi, including the creation of the name pi. Until 1647, it didn't have a universal name or symbol. English mathematician William Oughtred began calling it Pi in his publication Clavis Mathematicae, but it wasn't until Leonhard Euler used the symbol Pi in 1737 that it became widely embraced. The reason for adopting this particular Greek letter is because it is the first letter of the Greek word, perimetros, which loosely translates to "circumference."
+
+In 1767, Swiss mathematician Johann Heinrich Lambert proved Pi is irrational and in 1882 Ferdinand von Lindemann proved Pi is transcendental, which means Pi cannot be a solution to a polynomial equation with rational coefficients. This finding is significant because, until this point, it was believed that one could construct a square and a circle with equal area, known as "squaring the circle". Proving the transcendence of Pi showed this is not possible and the phrase "squaring the circle" is now used as a metaphor for trying to do something that is impossible.
+
+With modern technological advances, Pi has now been calculated to 31 trillion digits. However, only the first 39 or so are needed to be able to perform all calculations in our observable universe with virtually no error. Though it is news every time the digit record is broken, we can now use technology to explore other aspects of pi.
+
+* Where does Pi occur?
+
+Pi occurs in many areas of mathematics, far too many to list here. The study of Pi begins around middle school, when students learn about the circumference, diameter, radius and area of circles. Therefore, Pi = circumference / diameter.
